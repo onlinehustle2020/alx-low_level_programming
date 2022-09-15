@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /*
- * main - print the string in the printf function
+ *main - print the string in the printf function
  *
- * Description - using the main function
- * this printout "the bytes of char, int, long, long long and float datatype"
- * Return: 0
+ *Description - using the main function
+ *this printout "the bytes of char, int, long, long long and float datatype"
+ *Return: 0
  */
 
 int main(void)
