@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-/*
- * main - print the string in the printf function
+/**
+ * main - print the variable in printf
  *
- * Description - main function used
- * this printout "the bytes of char, int, long, long long and float datatype"
+ * Description: using main function
+ * this program printout "all data type in printf"
  * Return: 0
  */
 
